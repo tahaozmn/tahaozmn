@@ -1,7 +1,6 @@
-<h1 align=“center”>Hi :wave:, I’m Sedat</h1>
+<h1 align=“center”>Hi :wave:, I’m Taha</h1>
 <h3 align=“center”>I’m an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit.</h3>
-
-<iframe src="https://giphy.com/embed/5cnEDRXsyAss8" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/avatar-aang-5cnEDRXsyAss8">via GIPHY</a></p>
+<p><img align=“center” alt=“Coding” width=“400” height=“400" src=“https://giphy.com/gifs/avatar-aang-5cnEDRXsyAss8”></p>
 
 ## Connect with me
 <p align=“left”>
