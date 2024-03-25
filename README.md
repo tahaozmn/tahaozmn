@@ -1,13 +1,18 @@
-<h1 align=“center”>Hi :wave:, I’m Taha</h1>
-<h3 align=“center”>I’m an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit.</h3>
-<p><img align=“center” alt=“Coding” width=“400” height=“400" src=“https://giphy.com/gifs/avatar-aang-5cnEDRXsyAss8”></p>
+<h1 align="center">Hi 👋, I'm Taha</h1>
+<h3 align="center">Passionate about Mobile Application Development with Innovative Approaches: Experienced and Skilled Developer in iOS Ecosystem as Junior iOS Developer</h3>
 
-## Connect with me
-<p align=“left”>
-  <a href=“https://twitter.com/sedatbarlin” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg” alt=“sedatbarlin” height=“30" width=“40” /></a>
-<a href=“https://www.instagram.com/tahaozmn/” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg” alt=“tahaozmn” height=“30” width=“40" /></a>
-<a href=“https://www.linkedin.com/in/taha-%C3%B6zmen-03a660225/” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg” alt=“tahaozmn” height=“30" width=“40” /></a>
-<a href=“https://medium.com/@sedatbarlin” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg” alt=“@tahaozmn” height=“30” width=“40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tahaozmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahaozmn" height="30" width="40" /></a>
+<a href="https://instagram.com/tahaozmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahaozmn" height="30" width="40" /></a>
+<a href="https://medium.com/@tahaozmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tahaozmn" height="30" width="40" /></a>
 </p>
-<img align=“center” src=“https://github-readme-stats.vercel.app/api/top-langs?username=tahaozmn&show_icons=true&locale=en&hide_border=true&layout=compact&theme=vision-friendly-dark” alt=“tahaozmn” /> <img align=“center” src=“https://github-readme-stats.vercel.app/api?username=tahaozmn&show_icons=true&theme=vision-friendly-dark&hide_border=true&locale=en” alt=“tahaozmn” />
-<img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=tahaozmn&theme=vision-friendly-dark&hide_border=true” alt=“tahaozmn” />
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaozmn&show_icons=true&locale=en&layout=compact" alt="tahaozmn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaozmn&show_icons=true&locale=en" alt="tahaozmn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahaozmn&" alt="tahaozmn" /></p>
