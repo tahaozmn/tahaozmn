@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align=“center”>Hi :wave:, I’m Sedat</h1>
+<h3 align=“center”>I’m an iOS developer with a passion for providing high-quality and user-friendly solutions. For now I have hands-on experience designing and developing complex mobile apps using UIKit.</h3>
 
-<!--
-**tahaozmn/tahaozmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<iframe src="https://giphy.com/embed/5cnEDRXsyAss8" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/avatar-aang-5cnEDRXsyAss8">via GIPHY</a></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+<p align=“left”>
+<a href=“https://www.instagram.com/tahaozmn/” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg” alt=“tahaozmn” height=“30” width=“40" /></a>
+<a href=“https://www.linkedin.com/in/taha-%C3%B6zmen-03a660225/” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg” alt=“tahaozmn” height=“30" width=“40” /></a>
+<a href=“https://medium.com/@sedatbarlin” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg” alt=“@tahaozmn” height=“30” width=“40" /></a>
+</p>
+<img align=“center” src=“https://github-readme-stats.vercel.app/api/top-langs?username=tahaozmn&show_icons=true&locale=en&hide_border=true&layout=compact&theme=vision-friendly-dark” alt=“tahaozmn” /> <img align=“center” src=“https://github-readme-stats.vercel.app/api?username=tahaozmn&show_icons=true&theme=vision-friendly-dark&hide_border=true&locale=en” alt=“tahaozmn” />
+<img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=tahaozmn&theme=vision-friendly-dark&hide_border=true” alt=“tahaozmn” />
